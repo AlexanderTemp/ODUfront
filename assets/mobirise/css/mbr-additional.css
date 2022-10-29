@@ -1572,3 +1572,11 @@ a {
     justify-content: center;
   }
 }
+@media (max-width: 1575px) {
+  .comunidad {
+    display: none !important;
+  }
+  .campanas {
+    display: none !important;
+  }
+}
